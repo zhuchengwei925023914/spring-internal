@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:my="http://www.zhuchengwei.com/schema/mytags">
+    <my:redis id="123" ip="127.0.0.1" port="8080"/>
+</beans>
